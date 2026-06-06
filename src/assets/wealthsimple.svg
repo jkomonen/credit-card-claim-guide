@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 454" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f1724"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="454" rx="28" fill="url(#g2)" />
+
+  <!-- subtle pattern -->
+  <g opacity="0.04">
+    <rect x="0" y="120" width="720" height="80" fill="#fff" />
+  </g>
+
+  <!-- brand -->
+  <text x="44" y="140" fill="#fff" font-family="Inter, Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Wealthsimple</text>
+  <text x="44" y="190" fill="#cbd5e1" font-family="Inter, Arial, Helvetica, sans-serif" font-size="18">Visa Infinite</text>
+
+  <!-- chip -->
+  <rect x="44" y="56" width="64" height="48" rx="6" fill="#f3f4f6" opacity="0.95" />
+
+  <!-- last digits -->
+  <text x="520" y="340" fill="#fff" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="600">•••• 5678</text>
+</svg>
