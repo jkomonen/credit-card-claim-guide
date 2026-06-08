@@ -275,7 +275,7 @@
     "network": "Visa",
     "issuer": "Wealthsimple",
     "lastUpdated": "2026-01",
-    "sourceUrl": "",
+    "sourceUrl": "/certificates/wealthsimple/wealthsimple-visa-infinite.pdf",
     "bestFor": [
       "No FX fee",
       "Cash back"
@@ -343,7 +343,7 @@
     "network": "Visa",
     "issuer": "Wealthsimple",
     "lastUpdated": "2026-01",
-    "sourceUrl": "",
+    "sourceUrl": "/certificates/wealthsimple/wealthsimple-visa-infinite-privilege.pdf",
     "bestFor": [
       "No FX fee",
       "Premium"
