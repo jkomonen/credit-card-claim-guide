@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "rogers-red-mastercard",
+    "name": "Rogers Red Mastercard",
+    "family": "rogers-red",
+    "familyRank": 0,
+    "asset": "/images/rogers-red-mastercard.webp",
+    "annualFee": 0,
+    "network": "Mastercard",
+    "issuer": "Rogers Bank",
+    "lastUpdated": "2026-04",
+    "sourceUrl": "",
+    "bestFor": [
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include travel medical insurance coverage.",
+        "example": ""
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include trip cancellation insurance.",
+        "example": ""
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include trip interruption insurance.",
+        "example": ""
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include flight delay insurance.",
+        "example": ""
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include baggage insurance.",
+        "example": ""
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include rental car insurance.",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "id": "rogers-red-world-mastercard",
+    "name": "Rogers Red World Mastercard",
+    "family": "rogers-red",
+    "familyRank": 1,
+    "asset": "/images/rogers-red-world-mastercard.webp",
+    "annualFee": 0,
+    "network": "Mastercard",
+    "issuer": "Rogers Bank",
+    "lastUpdated": "2026-04",
+    "sourceUrl": "",
+    "bestFor": [
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include travel medical insurance coverage.",
+        "example": ""
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include trip cancellation insurance.",
+        "example": ""
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include trip interruption insurance.",
+        "example": ""
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include flight delay insurance.",
+        "example": ""
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include baggage insurance.",
+        "example": ""
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "This card does not include rental car insurance.",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "id": "rogers-red-world-elite-mastercard",
+    "name": "Rogers Red World Elite Mastercard",
+    "family": "rogers-red",
+    "familyRank": 2,
+    "asset": "/images/rogers-red-world-elite-mastercard.webp",
+    "annualFee": 0,
+    "network": "Mastercard",
+    "issuer": "Rogers Bank",
+    "lastUpdated": "2026-04",
+    "sourceUrl": "/certificates/rogers-bank/rogers-red-world-elite-mastercard.pdf",
+    "bestFor": [
+      "USD spending",
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$1,000,000 (10 days ≤64 / 3 days 65-75)",
+        "value": 1000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. 10 consecutive days for persons 64 and under, 3 days for ages 65-75. Must be age 75 or under and covered by a government health plan. Pre-existing condition exclusion applies (6-month lookback for under 65, 1-year for 65-75). Optional top-up available for longer trips.",
+        "example": "You are hospitalized for a sudden illness during a 2-week trip — up to  for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,000 per person ($1,000 per account)",
+        "value": 1000,
+        "expl": "Reimburses prepaid non-refundable trip costs if you must cancel for a covered reason before departure. Full cost of trip must be charged to the card. Covered reasons include sudden sickness/injury, death of family member, travel advisory, jury duty, employer transfer, weather delays, and common carrier delay. Must cancel with travel supplier within 48 hours.",
+        "example": "You fall seriously ill before departure and your doctor advises cancelling — prepaid flights and hotels up to ,000 per person (,000 account total) are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$1,000 per person ($1,000 per account)",
+        "value": 1000,
+        "expl": "Pays additional transportation costs and unused prepaid expenses if your trip is interrupted after departure due to a covered reason. Includes one-way economy fare to departure point plus unused prepaid arrangements. Full trip cost must be charged to the card. Covered reasons include medical emergency, death, travel advisory, hijacking, and weather.",
+        "example": "A family medical emergency forces you to return home mid-trip — the cost of a last-minute flight and unused hotel nights are covered up to ,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$150/day (up to 3 days)",
+        "value": 450,
+        "expl": "Reimburses commercial accommodation and meal expenses if your return is delayed due to a covered reason. Covers up to  per day per insured person for a maximum of 3 days. Full trip cost must be charged to the card. Covered reasons include any of the trip interruption covered reasons.",
+        "example": "Your return flight is delayed and you must stay overnight — meal and hotel costs up to /day for 3 days are covered."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "Not covered under travel certificate",
+        "value": 0,
+        "expl": "Baggage delay and loss are not covered under the travel insurance certificate for this card. Purchase Protection covers new items against theft or accidental damage for 90 days from purchase (not travel-related).",
+        "example": ""
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "31 days (vehicles up to $65,000)",
+        "value": 65000,
+        "expl": "Rental car collision/damage insurance for rentals up to 31 consecutive days. Covers damage, theft, loss-of-use charges, and reasonable towing. Vehicle MSRP must be ,000 or under in its model year. Must decline the rental agency's CDW/LDW. Full rental cost must be charged to the card. Excludes trucks, off-road vehicles, motorcycles, luxury/exotic cars, and vans over 8 passengers. Coverage is excess (becomes primary only when no other coverage applies).",
+        "example": "You rent a car for a week and decline the agency's /day CDW. The car is vandalized — repair costs up to the vehicle's actual cash value are covered."
+      }
+    ],
+    "claimsPhone": "1-866-856-7323",
+    "claimsLabel": "Allianz Global Assistance"
+  },
+  {
+    "id": "rogers-red-world-legend-mastercard",
+    "name": "Rogers Red World Legend Mastercard",
+    "family": "rogers-red",
+    "familyRank": 3,
+    "asset": "/images/rogers-red-world-legend-mastercard.png",
+    "annualFee": 0,
+    "network": "Mastercard",
+    "issuer": "Rogers Bank",
+    "lastUpdated": "2026-04",
+    "sourceUrl": "/certificates/rogers-bank/rogers-red-world-legend-mastercard.pdf",
+    "bestFor": [
+      "Premium",
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$5,000,000 (21 days ≤64 / 5 days 65-75)",
+        "value": 5000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. 21 consecutive days for persons 64 and under, 5 days for ages 65-75. Must be age 75 or under and covered by a government health plan. Pre-existing condition exclusion applies (90-day lookback for under 65, 150 days for 65-75). You do not need to charge trip expenses to the card for medical coverage.",
+        "example": "You are hospitalized for a sudden illness on a 3-week trip — up to  for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$2,500 per person ($10,000 per trip)",
+        "value": 2500,
+        "expl": "Reimburses prepaid non-refundable trip costs if you must cancel for a covered reason before departure. Full or partial trip cost must be charged to the card. Covered reasons include sickness or injury, death, traffic accident, legal proceeding (jury duty), severe weather, residence uninhabitable, and government travel advisory issued after booking.",
+        "example": "You fall seriously ill before departure and your doctor advises cancelling — prepaid flights and hotels up to ,500 per person (,000 total) are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$1,000 per person ($1,000 per trip)",
+        "value": 5000,
+        "expl": "Pays additional transportation costs and unused prepaid expenses if your trip is interrupted after departure due to a covered reason. Full or partial trip cost must be charged to the card. Covered reasons are the same as trip cancellation, including medical emergency, death, and severe weather.",
+        "example": "A family medical emergency forces you to return home mid-trip — the cost of a last-minute flight and unused hotel nights are covered up to ,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per person ($1,000 per trip, 4hr delay)",
+        "value": 1000,
+        "expl": "Reimburses additional accommodation and travelling expenses when your regularly scheduled flight is delayed 4+ hours in arrival or departure. Full airline ticket cost must be charged to the card. Maximum  per insured person, ,000 per trip for all insured persons combined.",
+        "example": "Your flight is delayed 5 hours due to mechanical issues — you buy meals and book a hotel and get reimbursed up to ."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 loss / $500 delay (4hr)",
+        "value": 1000,
+        "expl": "Covers loss, theft, or damage to baggage and personal items while travelling on a common carrier: up to ,000 per person (,500 per trip,  per item limit). Delayed checked baggage (4+ hour delay): up to  per person (,000 per trip) for essential items. Full common carrier ticket must be charged to the card.",
+        "example": "Your checked bag is delayed 6 hours after landing — you buy clothes and toiletries and get reimbursed up to . If the bag is permanently lost, contents are covered up to ,000."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "Not included",
+        "value": 0,
+        "expl": "Rental car collision/damage insurance is not included with this card.",
+        "example": ""
+      }
+    ],
+    "claimsPhone": "1-866-856-7323",
+    "claimsLabel": "Allianz Global Assistance"
+  },
+  {
+    "id": "ws-visa-infinite",
+    "name": "Wealthsimple Visa Infinite",
+    "family": "wealthsimple",
+    "familyRank": 0,
+    "asset": "/images/wealthsimple-visa-infinite.jpeg",
+    "annualFee": 0,
+    "network": "Visa",
+    "issuer": "Wealthsimple",
+    "lastUpdated": "2026-01",
+    "sourceUrl": "",
+    "bestFor": [
+      "No FX fee",
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$1,000,000 (14 days, under 65)",
+        "value": 1000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. Must be under age 65 and covered by a government health plan. First 14 consecutive days only. Note: Not available to residents of Quebec.",
+        "example": "You are hospitalized for a sudden illness during a trip — up to $1M for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,000 per person ($3,000 per trip)",
+        "value": 1000,
+        "expl": "Reimburses prepaid non-refundable trip costs if you must cancel for a covered reason before departure. Full cost of trip must be charged to the card. Note: Not available to residents of Quebec.",
+        "example": "You fall ill before departure and your physician recommends cancelling — prepaid flights and hotels up to $1,000 per person ($3,000 total) may be reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$1,000 per person ($3,000 per trip)",
+        "value": 1000,
+        "expl": "Pays extra transportation costs and unused prepaid expenses if your trip is interrupted after departure due to a covered cause. Note: Not available to residents of Quebec.",
+        "example": "A family emergency forces you to return home early — the cost of a last-minute flight and unused hotel nights may be covered up to $1,000."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$1,000 per person ($2,500 per occurrence)",
+        "value": 1000,
+        "expl": "Reimburses reasonable expenses for hotel, meals, refreshments, emergency purchases and sundry items when your flight is delayed, you miss a connection, or are denied boarding. Coverage begins 3 hours after the delay/missed connection. Note: Not available to residents of Quebec.",
+        "example": "Your flight is delayed 4 hours — you buy meals and toiletries and get reimbursed up to $1,000."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$500 delay / $750 loss ($1,000 total)",
+        "value": 1000,
+        "expl": "Covers emergency purchases if checked baggage is delayed more than 6 hours (up to $500). Covers damage to or loss of checked baggage and contents (up to $750). Combined maximum $1,000. Note: Not available to residents of Quebec.",
+        "example": "Your bags are delayed for a day — you buy basic clothes and toiletries and get reimbursed up to $500. If never returned, you get up to $750 for the lost contents."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      }
+    ],
+    "claimsPhone": "1-888-359-0394",
+    "claimsLabel": "Crawford & Company"
+  },
+  {
+    "id": "ws-visa-infinite-privilege",
+    "name": "Wealthsimple Visa Infinite Privilege",
+    "family": "wealthsimple",
+    "familyRank": 1,
+    "asset": "/images/wealthsimple-visa-infinite-privilege.webp",
+    "annualFee": 0,
+    "network": "Visa",
+    "issuer": "Wealthsimple",
+    "lastUpdated": "2026-01",
+    "sourceUrl": "",
+    "bestFor": [
+      "No FX fee",
+      "Premium"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$1,000,000 (14 days, under 65)",
+        "value": 1000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. Must be under age 65 and covered by a government health plan. First 14 consecutive days only. Note: Not available to residents of Quebec.",
+        "example": "You are hospitalized for a sudden illness during a trip — up to $1M for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,000 per person ($3,000 per trip)",
+        "value": 1000,
+        "expl": "Reimburses prepaid non-refundable trip costs if you must cancel for a covered reason before departure. Full cost of trip must be charged to the card. Note: Not available to residents of Quebec.",
+        "example": "You fall ill before departure and your physician recommends cancelling — prepaid flights and hotels up to $1,000 per person ($3,000 total) may be reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$1,000 per person ($3,000 per trip)",
+        "value": 1000,
+        "expl": "Pays extra transportation costs and unused prepaid expenses if your trip is interrupted after departure due to a covered cause. Note: Not available to residents of Quebec.",
+        "example": "A family emergency forces you to return home early — the cost of a last-minute flight and unused hotel nights may be covered up to $1,000."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$1,000 per person ($2,500 per occurrence)",
+        "value": 1000,
+        "expl": "Reimburses reasonable expenses for hotel, meals, refreshments, emergency purchases and sundry items when your flight is delayed, you miss a connection, or are denied boarding. Coverage begins 3 hours after the delay/missed connection. Note: Not available to residents of Quebec.",
+        "example": "Your flight is delayed 4 hours — you buy meals and toiletries and get reimbursed up to $1,000."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$500 delay / $750 loss ($1,000 total)",
+        "value": 1000,
+        "expl": "Covers emergency purchases if checked baggage is delayed more than 6 hours (up to $500). Covers damage to or loss of checked baggage and contents (up to $750). Combined maximum $1,000. Note: Not available to residents of Quebec.",
+        "example": "Your bags are delayed for a day — you buy basic clothes and toiletries and get reimbursed up to $500. If never returned, you get up to $750 for the lost contents."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      }
+    ],
+    "claimsPhone": "1-888-359-0394",
+    "claimsLabel": "Crawford & Company"
+  },
+  {
+    "id": "scotia-gold-amex",
+    "name": "Scotiabank Gold American Express",
+    "asset": "/images/amex-scotiabank-gold.avif",
+    "annualFee": 120,
+    "network": "Amex",
+    "issuer": "Scotiabank",
+    "lastUpdated": "2026-01",
+    "sourceUrl": "",
+    "bestFor": [
+      "No FX fee",
+      "Groceries & dining"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$1,000,000 (25 days ≤64 / 3 days 65+)",
+        "value": 1000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. 25 consecutive days for insured persons under 65, 3 days for those 65+. Must be covered by a provincial health plan. Pre-existing condition exclusion applies (180-day lookback for under 75, 365 days for 75+). Optional extension available for longer trips.",
+        "example": "You are hospitalized for a sudden illness during a trip abroad — up to $1M for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,500 per person ($10,000 per trip)",
+        "value": 1500,
+        "expl": "Reimburses prepaid non-refundable Eligible Expenses (flights, hotels, package tours) if you must cancel for a covered reason before departure. At least 75% of trip cost must be charged to the card. Covered causes include death, accidental injury, sudden sickness, jury duty, employment transfer, and weather-related delays. You must notify the administrator within 48 hours of the covered cause arising.",
+        "example": "You fall seriously ill before departure and your doctor advises cancelling — prepaid flights and hotels up to $1,500 per person ($1$0,000 total per trip) may be reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$1,500 per person ($10,000 per trip)",
+        "value": 1500,
+        "expl": "Pays additional transportation costs to return home and unused prepaid expenses if your trip is interrupted after departure due to a covered cause. Covers one-way economy fare to return to point of departure plus unused portions of Eligible Expenses. Covered causes include medical emergencies, death of family member, natural disaster, and weather-related delays.",
+        "example": "A family emergency requires you to return home mid-trip — the cost of a last-minute flight and unused hotel nights may be covered up to $1,500."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per person (4hr delay)",
+        "value": 500,
+        "expl": "Reimburses necessary and reasonable expenses incurred when your flight is delayed 4 hours or more. Covers hotel accommodations, meals, refreshments, essential items, and sundry items. At least 75% of ticket cost must be charged to the card.",
+        "example": "Your flight is delayed 6 hours due to mechanical issues — you buy meals, toiletries, and book a hotel, getting reimbursed up to $500."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 per trip (4hr delay)",
+        "value": 1000,
+        "expl": "Covers loss, theft, or delay of checked luggage by a Common Carrier. Delayed luggage (over 4 hours) reimburses essential clothing and toiletries purchased before bags are returned. Lost luggage reimburses replacement cost. Full fare must be charged to the card. Hotel/motel burglary also covered up to $1,000 per occurrence with evidence of forceful entry.",
+        "example": "Your checked bag is delayed for 8 hours — you buy clothes and toiletries and get reimbursed up to $1,000. If the bag is permanently lost, you're covered for the contents."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles ≤$65,000)",
+        "value": 65000,
+        "expl": "Primary rental car collision/loss damage insurance for rentals up to 48 consecutive days. Covers damage, theft, loss of use, and towing. Vehicle must have MSRP under $6$5,000. You must decline the rental agency's CDW/LDW and charge the full rental to your card. Coverage is primary — no need to involve your personal auto insurance. Available worldwide except where prohibited.",
+        "example": "You rent a car for a week-long trip and decline the rental agency's insurance. The rental car is vandalized — the repair cost up to the vehicle's actual cash value is covered."
+      }
+    ],
+    "claimsPhone": "1-800-263-0997",
+    "claimsLabel": "Manulife"
+  },
+  {
+    "id": "simply-cash",
+    "name": "American Express SimplyCash",
+    "asset": "/images/amex-simply-cash.webp",
+    "annualFee": 0,
+    "network": "Amex",
+    "issuer": "American Express",
+    "lastUpdated": "2026-01",
+    "sourceUrl": "",
+    "bestFor": [
+      "Cash back"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel accident insurance",
+        "valueLabel": "$100,000",
+        "value": 100000,
+        "expl": "Covers loss of life or dismemberment from an accident while riding as a passenger in, boarding, or alighting from a Common Carrier Conveyance (air, land, or water vehicle operated by a licensed common carrier) on a Covered Trip charged to your card. Benefit amounts: $10$0,000 for loss of life, both hands/feet, sight of both eyes, or one hand/foot + one eye; $5$0,000 for loss of one hand/foot or sight of one eye. Loss must occur within 100 days of the accident. Provided by Chubb Life Insurance Company of Canada.",
+        "example": "You are in a covered common carrier accident and suffer a covered loss — up to $10$0,000 is payable depending on the nature of the loss."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "N/A — see Purchase Protection",
+        "value": 0,
+        "expl": "Baggage delay/loss is not covered under the travel certificate. Purchase Protection (Belair Insurance Company Inc.) covers new items against theft or accidental damage for 90 days from purchase (up to $1,000 per occurrence) when at least a portion of the purchase price is charged to the card.",
+        "example": ""
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      }
+    ],
+    "claimsPhone": "1-800-243-0198",
+    "claimsLabel": "Global Excel"
+  },
+  {
+    "id": "cobalt",
+    "name": "American Express Cobalt",
+    "asset": "/images/amex-cobalt.jpeg",
+    "annualFee": 156,
+    "network": "Amex",
+    "issuer": "American Express",
+    "lastUpdated": "2026-01",
+    "sourceUrl": "",
+    "bestFor": [
+      "Groceries & dining",
+      "Aeroplan transfers"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "15 days — $5,000,000",
+        "value": 5000000,
+        "expl": "Covers emergency medical care while travelling for short trips.",
+        "example": "If you need emergency surgery while on vacation, this helps pay the hospital bills."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500",
+        "value": 500,
+        "expl": "Provides small reimbursements for expenses when scheduled travel is delayed.",
+        "example": "Your flight is delayed several hours and you buy meals — this can reimburse those costs."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$500 (after 4 hours)",
+        "value": 500,
+        "expl": "Covers essentials or lost baggage when airline delays or loses your luggage.",
+        "example": "Baggage is delayed for a day — you buy basic clothes and toiletries and get reimbursed."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "$0",
+        "value": 0,
+        "expl": "",
+        "example": ""
+      }
+    ],
+    "claimsPhone": "1-800-243-0198",
+    "claimsLabel": "Global Excel"
+  },
+  {
+    "id": "scotia-passport-visa-infinite",
+    "name": "Scotiabank Passport Visa Infinite",
+    "asset": "/images/scotiabank-passport-visa-infinite.jpg",
+    "annualFee": 150,
+    "network": "Visa",
+    "issuer": "Scotiabank",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "No FX fee",
+      "Lounge access",
+      "Good insurance"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$2,000,000 (25 days ≤64 / 3 days 65+)",
+        "value": 2000000,
+        "expl": "Covers emergency medical expenses while travelling outside your province. 25 consecutive days for insured persons under 65, 3 days for those 65+. Must be covered by a provincial health plan. Pre-existing condition exclusion applies (180 days lookback for under 75, 365 days for 75+). Optional extension available for longer trips.",
+        "example": "You are hospitalized for a sudden illness on a 2-week trip abroad — up to $2M for hospital, physician, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,500 per person ($10,000 per trip)",
+        "value": 1500,
+        "expl": "Reimburses prepaid non-refundable Eligible Expenses (flights, hotels, package tours) if you must cancel for a covered reason before departure. At least 75% of trip cost must be charged to the card. Covered causes include death, accidental injury, sudden sickness, jury duty, employment transfer, and weather-related delays. You must notify the administrator within 48 hours of the covered cause arising.",
+        "example": "You fall seriously ill before departure and your doctor advises cancelling — prepaid flights and hotels up to $1,500 per person ($1$0,000 total per trip) may be reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$2,500 per person ($10,000 per trip)",
+        "value": 2500,
+        "expl": "Pays additional transportation costs to return home and unused prepaid expenses if your trip is interrupted after departure due to a covered cause. Covers one-way economy fare to return to point of departure plus unused portions of Eligible Expenses. Covered causes include medical emergencies, death of family member, natural disaster, and weather-related delays.",
+        "example": "A family emergency requires you to return home mid-trip — the cost of a last-minute flight and unused hotel nights may be covered up to $2,500."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per person (4hr delay)",
+        "value": 500,
+        "expl": "Reimburses necessary and reasonable expenses incurred within 48 hours of scheduled departure when your flight is delayed 4 hours or more with no alternative transportation available. Covers hotel accommodations, meals, refreshments, essential items, and sundry items. Covered causes include strike, quarantine, civil commotion, hijack, natural disaster, inclement weather, mechanical breakdown, and denied boarding due to overbooking.",
+        "example": "Your flight is delayed 6 hours due to mechanical issues — you buy meals, toiletries, and book a hotel, getting reimbursed up to $500."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 per trip",
+        "value": 1000,
+        "expl": "Covers loss, theft, or delay of checked luggage by a Common Carrier. Delayed luggage (over 4 hours) reimburses essential clothing and toiletries purchased before bags are returned (up to 96 hours). Lost luggage reimburses replacement cost. Full fare must be charged to the card. Hotel/motel burglary also covered up to $1,000 per occurrence with evidence of forceful entry.",
+        "example": "Your checked bag is delayed for 8 hours — you buy clothes and toiletries and get reimbursed up to $1,000. If the bag is permanently lost, you're covered for the contents."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles ≤$65,000)",
+        "value": 50000,
+        "expl": "Primary rental car collision/loss damage insurance for rentals up to 48 consecutive days. Covers damage, theft, loss of use, and towing. Vehicle must have MSRP under $6$5,000. You must decline the rental agency's CDW/LDW and charge the full rental to your card. Coverage is primary — no need to involve your personal auto insurance. Available worldwide except where prohibited. Note: off-road vehicles, trucks, vans, luxury/exotic cars, and motorcycles are excluded.",
+        "example": "You rent a car for a week-long trip and decline the rental agency's $30/day insurance. The rental car is vandalized — the repair cost up to the vehicle's actual cash value is covered."
+      }
+    ],
+    "claimsPhone": "1-800-263-0997",
+    "claimsLabel": "Manulife"
+  },
+  {
+    "id": "national-bank-world-elite",
+    "name": "National Bank World Elite Mastercard",
+    "asset": "/images/national-bank-world-elite-mastercard.png",
+    "annualFee": 150,
+    "network": "Mastercard",
+    "issuer": "National Bank",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "Best insurance",
+      "Travel credit",
+      "Mobile device"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$5,000,000 (60 days ≤54 / 31 days 55-64 / 15 days 65-75)",
+        "value": 5000000,
+        "expl": "Covers emergency medical expenses outside your province. Length of coverage depends on age: 60 days for 54 and under, 31 days for 55-64, 15 days for 65-75. Covers hospital fees, doctors' bills, emergency prescriptions, accident-related dental, emergency return flight, and repatriation. Covers primary cardholder, spouse, and dependent children. Spouse travelling without primary cardholder must be an authorized cardholder. Optional extension available for longer trips or ages 76+.",
+        "example": "You suffer a medical emergency on a 3-week trip abroad — up to $5M for hospital, doctor, ambulance, and prescription costs are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$2,500 per person ($500 for living expenses)",
+        "value": 2500,
+        "expl": "Reimburses prepaid non-refundable trip costs if you must cancel due to an unforeseeable covered event before departure. Includes up to $500 per person for living expenses. Covers primary cardholder, spouse, and dependent children. Optional insurance available to supplement if needed.",
+        "example": "A medical emergency prevents you from travelling — prepaid flights, hotels, and other non-refundable costs up to $2,500 per person are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$5,000 per person ($3,000 for delay over 6hr)",
+        "value": 5000,
+        "expl": "Pays additional transportation costs and unused prepaid expenses if your trip is interrupted after departure due to an unforeseeable covered event. Includes up to $3,000 per person for living expenses if delayed more than 6 hours.",
+        "example": "You must return home mid-trip due to a family emergency — the cost of a last-minute flight and unused hotel nights are covered up to $5,000."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per person (4hr delay)",
+        "value": 500,
+        "expl": "Reimburses living expenses for flight departure delays of more than 4 hours. Covers primary cardholder, spouse, and dependent children.",
+        "example": "Your flight is delayed 5 hours — you buy meals and essentials and get reimbursed up to $500."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 loss / $500 delay (6hr)",
+        "value": 1000,
+        "expl": "Covers loss, damage, or theft of baggage up to $1,000 per person. Delayed checked luggage (over 6 hours) covered up to $500 per person for essential items. Covers primary cardholder, spouse, and dependent children.",
+        "example": "Your checked bag is delayed 8 hours — you buy clothes and toiletries and get reimbursed up to $500. If permanently lost, contents covered up to $1,000."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles up to $65,000)",
+        "value": 65000,
+        "expl": "Complete coverage for accident or damage to a rental vehicle charged to your card for 48 consecutive days or less. Vehicle value up to $6$5,000.",
+        "example": "You rent a car for a 2-week vacation and decline the rental agency's insurance. The car is damaged in a parking lot — repair costs are covered up to $6$5,000."
+      }
+    ],
+    "claimsPhone": "1-888-235-2645",
+    "claimsLabel": "National Bank Assistance"
+  },
+  {
+    "id": "rbc-avion-visa-infinite",
+    "name": "RBC Avion Visa Infinite",
+    "asset": "/images/rbc-avion-visa-infinite.webp",
+    "annualFee": 120,
+    "network": "Visa",
+    "issuer": "RBC",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "Flexible points",
+      "Mobile device",
+      "Travel"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "Unlimited (15 days ≤64 / 3 days 65+)",
+        "value": 5000000,
+        "expl": "Covers emergency medical expenses outside your province. 15 consecutive days for persons under 65, 3 days for 65+. Unlimited maximum benefit. Covers hospital, surgical, medical treatment, emergency dental (up to $2,000), physio/chiropractor ($250), emergency air evacuation, and repatriation. Pre-existing condition exclusion applies (90-day lookback for under 75, 180 days for 75+). Must call before receiving treatment or benefits may be reduced. Optional top-up available for longer trips.",
+        "example": "You are hospitalized for a sudden illness on a 2-week trip — all reasonable hospital, doctor, and ambulance costs beyond your provincial health plan are covered."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,500 per person ($5,000 per trip)",
+        "value": 1500,
+        "expl": "Reimburses non-refundable prepaid travel arrangements if you must cancel for a covered reason before departure. 13 covered reasons including medical emergency, death of family member, travel advisory, jury duty, and weather-related delays. Full cost of trip must be charged to the card and/or Avion points. You must cancel with your travel supplier immediately and call the administrator the same business day.",
+        "example": "You are suddenly ill before departure and your doctor advises against travel — prepaid flights and hotels up to $1,500 per person ($5,000 total) are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$5,000 per person ($25,000 per trip)",
+        "value": 5000,
+        "expl": "Pays additional transportation costs to return home and unused prepaid expenses if your trip is interrupted after departure due to a covered reason. Includes economy-class transportation to departure point or to bedside/funeral of family member. 13 covered reasons including medical emergency, death, natural disaster, and travel advisory.",
+        "example": "A family medical emergency forces you to return home mid-trip — the cost of a last-minute flight and unused hotel nights are covered up to $5,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$250/day ($500 max per occurrence)",
+        "value": 500,
+        "expl": "Reimburses reasonable and necessary expenses when your flight is delayed 4+ hours due to missed connection, delayed departure, or denied boarding from overbooking, with no alternative transportation available. Covers commercial accommodations, meals, emergency purchases, essential phone calls, internet, and taxi fares. Coverage applies within 48 hours of scheduled departure.",
+        "example": "Your flight is delayed 5 hours due to mechanical issues — you buy meals and essentials and get reimbursed up to $250 for that day ($500 max total)."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$500 delay / $2,500 total per occurrence",
+        "value": 2500,
+        "expl": "Delayed checked baggage (4+ hours after flight arrival) covered up to $500 per person for emergency purchases (essential clothing and toiletries). Maximum $2,500 per occurrence for all covered persons. Full airfare must be charged to the card. Baggage loss/damage/theft also covered. Coverage ends 4 days after flight arrival or when baggage is returned.",
+        "example": "Your checked bag is delayed 6 hours after landing — you buy clothes and toiletries and get reimbursed up to $500. If the bag never arrives, contents are covered."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles up to $65,000)",
+        "value": 65000,
+        "expl": "Primary rental car collision/loss damage insurance for rentals up to 48 consecutive days. Covers damage, theft, loss of use, towing, and admin fees up to $50. Vehicle MSRP must be under $6$5,000. You must decline the rental agency's CDW/LDW. Book and pay with your card. Available worldwide. Excludes trucks, off-road vehicles, motorcycles, luxury/exotic cars, and vans over 8 passengers. Car sharing eligible if you pay with your card.",
+        "example": "You rent a car for a week and decline the agency's $35/day CDW. The car is damaged in a parking lot — repair costs up to the vehicle's actual cash value are covered."
+      }
+    ],
+    "claimsPhone": "1-800-533-2778",
+    "claimsLabel": "Allianz Global Assistance (RBC Insurance)"
+  },
+  {
+    "id": "td-aeroplan-visa-infinite",
+    "name": "TD Aeroplan Visa Infinite",
+    "asset": "/images/td-aeroplan-visa-infinite.jpeg",
+    "annualFee": 139,
+    "network": "Visa",
+    "issuer": "TD",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "Aeroplan",
+      "Travel",
+      "Mobile device"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$25,000,000 (21 days ≤64 / 4 days 65+)",
+        "value": 2000000,
+        "expl": "Covers emergency medical expenses outside your province. $2,00$0,000 maximum benefit. 21 consecutive days for persons under 65, 4 days for 65+. Covers hospital, physician, surgery, prescription drugs, ambulance, emergency dental (up to $2,000 accidental, $200 pain relief), private duty nursing ($5,000), medical appliances, and emergency air evacuation. Pre-existing condition exclusion applies (90-day lookback for 64 and under, 180 days for 65+). Must call the administrator within 48 hours of admission or benefits reduced to 80% up to $3$0,000. Optional top-up available for longer trips.",
+        "example": "You are hospitalized for a sudden illness on a 2-week trip — all reasonable hospital and doctor costs beyond your provincial health plan are covered up to $2,00$0,000."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,500 per person ($5,000 per trip)",
+        "value": 1500,
+        "expl": "Reimburses non-refundable prepaid travel arrangements if you must cancel before departure for a covered reason. Covers medical emergencies (death, sudden illness/injury), death of family member, jury duty, travel advisory, employment transfer, common carrier delay (mechanical, traffic accident, weather), natural disaster, quarantine, hijacking, and military reservist call to service. At least 75% of trip cost must be charged to the card and/or Aeroplan points. Must cancel with travel supplier immediately and call administrator within 24 hours.",
+        "example": "You are suddenly ill before departure and your doctor advises against travel — prepaid flights and hotels up to $1,500 per person ($5,000 total) are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$5,000 per person ($25,000 per trip)",
+        "value": 5000,
+        "expl": "Covers additional transportation costs to return home and unused prepaid expenses if your trip is interrupted after departure. Includes one-way economy airfare to point of departure, cost to rejoin tour group, and unused land arrangements. Covered causes include medical emergency, death of family member, travel advisory, common carrier delay (mechanical, traffic accident, weather), natural disaster, quarantine, hijacking, and military reservist call. Transportation must be pre-approved by administrator. Must call immediately but no later than 24 hours.",
+        "example": "A family medical emergency forces you to return home mid-trip — the cost of a last-minute flight and unused hotel nights are covered up to $5,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 max per occurrence (4-hour delay)",
+        "value": 500,
+        "expl": "Reimburses reasonable expenses for meals, accommodation, and ground transportation when your common carrier departure is delayed 4+ hours. Covered causes: inclement weather, equipment failure, or unforeseen strike/job action by carrier employees. Not covered: events known before booking, government orders, pre-existing strikes, carrier withdrawal from service, or bomb search/threat. Coverage is excess over any other insurance or carrier compensation.",
+        "example": "Your flight is delayed 5 hours due to a mechanical issue — you buy meals and get reimbursed up to $500."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 per person per trip",
+        "value": 1000,
+        "expl": "Covers delayed and lost checked baggage. Delay coverage (6+ hour delay): reimburses essential clothing and toiletries purchased before baggage is returned, up to 96 hours after arrival. Lost baggage: reimburses replacement cost of lost personal property not paid by the common carrier or other insurance. Total combined maximum $1,000 per covered person per trip. At least 75% of ticket cost must be charged to the card and/or Aeroplan points. Baggage must be checked with a common carrier. Excludes baggage on return home, cash, securities, credit cards, and documents.",
+        "example": "Your checked bag is delayed 8 hours after landing — you buy clothes and toiletries and get reimbursed up to $1,000."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles up to $65,000)",
+        "value": 65000,
+        "expl": "Primary rental car collision/loss damage insurance for rentals up to 48 consecutive days. Covers damage, theft, loss of use charges, and valid admin fees up to the vehicle's actual cash value. Vehicle MSRP must be under $6$5,000. You must decline the rental agency's CDW. Full rental cost must be charged to the card. Covers cars, SUVs, and minivans (max 8 passengers). Excludes trucks, vans (non-minivan), off-road vehicles, motorcycles, luxury/exotic vehicles, antiques, and tax-free cars. Available worldwide. Claims must be reported within 48 hours.",
+        "example": "You rent a car for a week and decline the agency's CDW. The car is stolen from a parking lot — the vehicle's actual cash value and loss of use charges are covered up to $6$5,000."
+      }
+    ],
+    "claimsPhone": "1-866-374-1129",
+    "claimsLabel": "Global Excel (TD Insurance)"
+  },
+  {
+    "id": "bmo-ascend-world-elite",
+    "name": "BMO Ascend World Elite Mastercard",
+    "asset": "/images/bmo-ascend-world-elite-mastercard.webp",
+    "annualFee": 150,
+    "network": "Mastercard",
+    "issuer": "BMO",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "AIR MILES",
+      "Travel"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$5,000,000 (21 days ≤64 only)",
+        "value": 5000000,
+        "expl": "Covers emergency medical expenses outside your province. $5,00$0,000 maximum benefit. 21 consecutive days per trip for persons aged 64 or under on departure date. Covers hospital, physician, surgery, prescription drugs (30-day supply), ambulance, emergency dental (up to $2,000 injury, $150 pain relief), private duty nursing ($5,000), physio/chiropractor/osteopath ($150 per profession), medical appliances, and emergency air evacuation. Pre-existing condition exclusion applies with 180-day lookback. Must contact Operations Centre within 24 hours. Optional extension available (must call before 21st day, up to 365 days total).",
+        "example": "You are hospitalized for a sudden illness on a 2-week trip — all reasonable hospital and doctor costs beyond your provincial health plan are covered up to $5,00$0,000."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "$1,500 per person ($5,000 per trip)",
+        "value": 1500,
+        "expl": "Reimburses prepaid non-refundable travel arrangements if you must cancel before departure for a covered reason. Covers unexpected sickness/injury or death, quarantine, vaccination side effects, complications of pregnancy (first 31 weeks), employer transfer, involuntary job loss, visa refusal, jury duty, common carrier delay (weather, mechanical, accident, strike 24+ hours), natural disaster rendering home uninhabitable, travel advisory, and military reservist call. Full or partial trip cost must be on the card. Must notify Operations Centre and travel supplier within 48 hours.",
+        "example": "You are suddenly ill before departure and your doctor advises against travel — prepaid flights and hotels up to $1,500 per person ($5,000 total) are reimbursed."
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$2,000 per person ($10,000 per trip)",
+        "value": 2000,
+        "expl": "Covers additional transportation costs to return home and unused prepaid expenses if your trip is interrupted after departure for a covered reason. Includes one-way economy fare, cost to change ticket, unused prepaid arrangements (excluding transportation), single supplement for travelling companion, and meals/accommodation ($200/day to 10 days max). Covered causes include unexpected sickness/injury or death, quarantine, vaccination side effects, pregnancy complications, jury duty, travel supplier bankruptcy/insolvency, common carrier delay (24+ hours), hijacking, natural disaster, travel advisory, and military reservist call. Must notify within 48 hours.",
+        "example": "A family medical emergency forces you to return home mid-trip — the cost of a last-minute flight and unused hotel nights are covered up to $2,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per trip (4-hour delay)",
+        "value": 500,
+        "expl": "Reimburses reasonable additional accommodation and travelling expenses when your regularly scheduled commercial flight is delayed 4+ hours in arrival or departure. Covers meals, accommodation, and travel expenses. Maximum $500 per trip for all insured persons combined. Full ticket cost must be charged to the card. Prepaid expenses are not covered. Must notify Operations Centre immediately after learning of delay.",
+        "example": "Your flight is delayed 5 hours due to weather — you buy meals and get reimbursed up to $500 per trip."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$500 per person ($1,000 per trip)",
+        "value": 1000,
+        "expl": "Covers delayed, lost, stolen, or accidentally damaged checked or carry-on baggage while with a common carrier. Loss/theft/damage: up to $500 per person ($1,000 per trip), $500 per item limit. Delay (6+ hours en route to destination): up to $500 per person ($1,000 per trip) for essential items purchased within 36 hours of arrival. Delay purchases reduce the loss benefit if baggage is later declared lost. Full ticket cost must be charged to the card. Excludes jewelry, furs, cameras, computers, cell phones, money, tickets, documents, and contact lenses.",
+        "example": "Your checked bag is delayed 8 hours after landing — you buy clothes and toiletries and get reimbursed up to $500 per person."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "48 days (vehicles up to $65,000)",
+        "value": 65000,
+        "expl": "Primary rental car collision/loss damage insurance for rentals up to 48 consecutive days. Covers damage, theft, loss of use, and reasonable towing charges up to the vehicle's actual cash value. Vehicle MSRP must be $6$5,000 or under in its model year. Must decline rental agency's CDW. Full rental cost must be charged to the card. Covers cars, SUVs, and minivans (max 8 passengers). Excludes trucks, off-road vehicles, motorcycles, exotic vehicles, antiques, and vehicles over $6$5,000 MSRP. Claims must be reported immediately.",
+        "example": "You rent a car for a week and decline the agency's CDW. The car is damaged in a parking lot — repair costs up to the vehicle's actual cash value are covered."
+      }
+    ],
+    "claimsPhone": "1-877-704-0341",
+    "claimsLabel": "Allianz Global Assistance (BMO Operations Centre)"
+  },
+  {
+    "id": "mbna-rewards-world-elite",
+    "name": "MBNA Rewards World Elite Mastercard",
+    "asset": "/images/mbna-rewards-world-elite-mastercard.png",
+    "annualFee": 120,
+    "network": "Mastercard",
+    "issuer": "MBNA",
+    "lastUpdated": "2026-06",
+    "sourceUrl": "",
+    "bestFor": [
+      "Rewards",
+      "Travel",
+      "Mobile device"
+    ],
+    "coverages": [
+      {
+        "key": "travel_medical",
+        "label": "Travel medical insurance",
+        "valueLabel": "$25,000,000 (21 days, under 65 only)",
+        "value": 2000000,
+        "expl": "Covers emergency medical expenses outside your province. $2,00$0,000 maximum benefit. 21 consecutive days per trip. Only available for cardholders under 65 years of age on departure date. Must be covered by a provincial GHIP. Covers hospital, physician, surgery, prescription drugs, ambulance, emergency dental (up to $2,000 accidental), private duty nursing ($5,000), medical appliances, emergency air evacuation, bedside companion (round-trip economy + $1,500), and travelling companion benefit. Pre-existing condition exclusion applies. Must call administrator immediately to report. Top-up coverage may be available.",
+        "example": "You are hospitalized for a sudden illness on a 2-week trip — all reasonable hospital and doctor costs beyond your provincial health plan are covered up to $2,00$0,000."
+      },
+      {
+        "key": "trip_cancellation",
+        "label": "Trip cancellation",
+        "valueLabel": "Not available",
+        "value": 0,
+        "expl": "This card does not include trip cancellation insurance.",
+        "example": ""
+      },
+      {
+        "key": "trip_interruption",
+        "label": "Trip interruption",
+        "valueLabel": "$2,000 per person ($25,000 per trip)",
+        "value": 2000,
+        "expl": "Unexpected Return Home benefit: reimburses additional charges to change your ticket or a one-way economy fare to your residence in the event of the death of an immediate relative (spouse, child, parent, sibling, grandparent, grandchild, in-laws) while you are on a trip. Maximum $2,000 per insured person, $2$5,000 per trip for all insured persons. You must call the administrator to arrange transportation; failure to do so may result in denial. This is a limited benefit — unlike full trip interruption, it only covers return due to death of an immediate relative.",
+        "example": "A parent passes away while you are abroad — the cost to change your ticket home is covered up to $2,000 per person."
+      },
+      {
+        "key": "flight_delay",
+        "label": "Flight / trip delay",
+        "valueLabel": "$500 per occurrence (4-hour delay)",
+        "value": 500,
+        "expl": "Reimburses reasonable expenses for meals, accommodation, and ground transportation when your flight/trip is delayed 4+ hours due to severe weather, equipment failure, or strike/job action by carrier employees. At least 75% of trip cost must be charged to the card and/or associated points. Not covered: events known before booking, government orders, pre-existing strikes, carrier withdrawal from service, or bomb search/threat. Coverage is excess over other insurance or carrier compensation.",
+        "example": "Your flight is delayed 5 hours due to a mechanical issue — you buy meals and get reimbursed up to $500."
+      },
+      {
+        "key": "baggage",
+        "label": "Delayed & lost baggage",
+        "valueLabel": "$1,000 per person per trip",
+        "value": 1000,
+        "expl": "Covers delayed and lost checked baggage. Delay coverage (4+ hour delay): up to $1,000 per person for essential items (clothing, toiletries) purchased within 96 hours of arrival. Lost baggage: up to $1,000 per person for replacement cost of personal property not covered by the common carrier or other insurance. Full ticket cost must be charged to the card. Excludes baggage delay on return home, cash, securities, credit cards, tickets, and documents.",
+        "example": "Your checked bag is delayed 5 hours after landing — you buy clothes and toiletries and get reimbursed up to $1,000."
+      },
+      {
+        "key": "rental_car",
+        "label": "Rental car insurance",
+        "valueLabel": "31 days ($65,000 lifetime limit)",
+        "value": 65000,
+        "expl": "Rental vehicle collision damage waiver for rentals up to 31 consecutive days. Covers damage, theft, loss of use, and towing. $6$5,000 lifetime cumulative limit per account (not per vehicle). Must decline rental agency's CDW. Full rental cost must be charged to the card. Also includes rental vehicle personal effects coverage ($1,000/person, $2,000/account) and rental vehicle AD&D (up to $20$0,000 for cardholder). Excludes vans, trucks, campers, off-road vehicles, motorcycles, exotic/antique vehicles, and leased vehicles.",
+        "example": "You rent a car for a week and decline the agency's CDW. The car is damaged — repair costs up to the vehicle's actual cash value are covered."
+      }
+    ],
+    "claimsPhone": "1-866-520-8827",
+    "claimsLabel": "Global Excel (MBNA Operations Centre)"
+  }
+]

@@ -13,14 +13,20 @@ body{margin:0;background:var(--bg);font-family:Inter, -apple-system, BlinkMacSys
 .page{max-width:900px;margin:40px auto;padding:0 20px}
 .header{display:flex;align-items:center;justify-content:space-between;gap:16px}
 .header h1{font-weight:600;font-size:20px;margin:0}
-.search{padding:10px 14px;border-radius:12px;width:240px;font-size:14px;background:var(--panel);border:1px solid rgba(255,255,255,0.04);color:var(--text)}
+.search{padding:10px 14px;border-radius:12px;width:240px;max-width:100%;font-size:14px;background:var(--panel);border:1px solid rgba(255,255,255,0.04);color:var(--text)}
+.clickable{cursor:pointer}
+.empty-state{grid-column:1/-1;text-align:center;color:var(--muted);font-size:14px;margin-top:40px}
+.not-found{color:var(--muted);font-size:14px;margin-top:40px}
+.not-found a{color:var(--green)}
 
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:20px}
-.card{background:transparent;border-radius:14px;padding:0;display:flex;transition:transform 200ms ease,box-shadow 200ms ease}
-.card-art{width:100%;height:auto;border-radius:14px;display:block}
+.card{background:transparent;border-radius:14px;padding:0;display:flex;transition:transform 200ms ease,box-shadow 200ms ease;position:relative}
+.card-art{width:100%;height:auto;aspect-ratio:1.586;border-radius:14px;display:block}
 .card:hover{transform:scale(1.02)}
+.variant-badge{position:absolute;bottom:8px;right:8px;background:rgba(0,0,0,0.65);color:#fff;font-size:11px;font-weight:600;padding:3px 9px;border-radius:10px;pointer-events:none;backdrop-filter:blur(4px)}
 
 @media(max-width:760px){.page{margin:24px auto;padding:0 16px}.cards{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.card,.card-art,.chev{transition:none!important}.card:hover{transform:none}}
 
 .detail-page{max-width:760px;margin:24px auto;padding:0 16px}
 .back{background:transparent;border:1px solid rgba(255,255,255,0.04);padding:8px 12px;border-radius:10px;cursor:pointer;margin-bottom:12px;color:var(--text);font-size:14px}
@@ -43,3 +49,38 @@ body{margin:0;background:var(--bg);font-family:Inter, -apple-system, BlinkMacSys
 .coverage-body .expl{color:var(--muted);font-size:13px;line-height:1.4}
 .coverage-body .example{color:var(--text);font-size:13px;opacity:0.85;line-height:1.4}
 .coverage-amount{color:var(--green);font-size:14px;font-weight:600}
+.amount-none{color:var(--muted)}
+.check-none{background:rgba(255,255,255,0.06);color:var(--muted)}
+
+.variant-picker{display:flex;gap:6px;flex-wrap:wrap;margin:16px 0 4px}
+.variant-chip{background:var(--panel);border:1px solid rgba(255,255,255,0.06);padding:6px 14px;border-radius:20px;cursor:pointer;color:var(--muted);font-size:13px;transition:all 200ms}
+.variant-chip.active{background:rgba(37,179,106,0.15);border-color:var(--green);color:var(--green);font-weight:600}
+.variant-chip:hover:not(.active){border-color:rgba(255,255,255,0.15);color:var(--text)}
+.no-coverage{background:var(--panel);border-radius:16px;padding:24px;text-align:center;border:1px solid rgba(255,255,255,0.03);margin-top:12px}
+.no-coverage p{color:var(--muted);font-size:14px;margin:0}
+
+.detail-header-info{display:flex;flex-direction:column;gap:4px}
+.detail-header h2{margin:0;font-size:18px;line-height:1.3}
+.detail-meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.fee-badge,.network-badge{font-size:11px;font-weight:600;padding:2px 8px;border-radius:6px;background:rgba(37,179,106,0.15);color:var(--green)}
+.issuer-label{font-size:12px;color:var(--muted)}
+.best-for-row{display:flex;gap:4px;flex-wrap:wrap;margin-top:2px}
+.best-tag{font-size:11px;padding:2px 8px;border-radius:6px;background:rgba(255,255,255,0.06);color:var(--muted)}
+
+.detail-art-placeholder{width:96px;height:60px;border-radius:8px;background:var(--panel);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.06);flex-shrink:0}
+.detail-art-initials{font-size:16px;font-weight:700;color:var(--muted);letter-spacing:1px}
+
+.card-placeholder{width:100%;aspect-ratio:1.6;border-radius:14px;background:var(--panel);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;padding:16px;border:1px solid rgba(255,255,255,0.04);text-align:center}
+.card-placeholder-name{font-weight:600;font-size:13px;line-height:1.3;color:var(--text)}
+.card-placeholder-tags{display:flex;gap:4px;flex-wrap:wrap;justify-content:center}
+.card-placeholder-tag{font-size:10px;padding:2px 6px;border-radius:4px;background:rgba(255,255,255,0.06);color:var(--muted)}
+
+.detail-footer{display:flex;flex-direction:column;gap:10px;margin-top:20px;padding-top:12px;border-top:1px solid rgba(255,255,255,0.04)}
+.claims-contact{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:rgba(37,179,106,0.08);border:1px solid rgba(37,179,106,0.15);border-radius:10px;padding:10px 14px}
+.claims-label{font-size:12px;color:var(--muted)}
+.claims-phone{font-size:16px;font-weight:700;color:var(--green);text-decoration:none}
+.claims-phone:hover{text-decoration:underline}
+.footer-links{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.last-updated{font-size:12px;color:var(--muted)}
+.source-link{font-size:13px;color:var(--green);text-decoration:none;font-weight:500}
+.source-link:hover{text-decoration:underline}
